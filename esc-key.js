@@ -1,5 +1,3 @@
-'use strict';
-
 angular.module('esc-key', [])
   .directive('escKey', function () {
     return function (scope, element, attrs) {
